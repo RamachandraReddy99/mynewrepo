@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
-#includu <conio.h>
+#includu <conio.h> 
+#include<math.h>
 void main()
 {
     char s[1000];
