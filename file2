@@ -1,2 +1,13 @@
 I learned aws devops
-
+#include <stdio.h>
+#include <string.h>
+#includu <conio.h> 
+#include<math.h>
+void main()
+{
+    char s[1000];
+    int count=0;
+     while (gets(s))
+        count += strlen(s);
+    printf("%d\n",count);
+}
